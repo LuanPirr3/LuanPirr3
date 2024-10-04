@@ -1,7 +1,9 @@
 ### Olá eu sou o Luan Pierre👋
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan_pierre__?igsh=NXpqMmU1NDk3YzJn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luan_pierre__/profilecard/?igsh=MWtjdHZhbXpja3Noeg==)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pierre-engsoft)
+
 
 ![Luan Pierre GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanPirr3&show_icons=true&theme=dracula)
 
