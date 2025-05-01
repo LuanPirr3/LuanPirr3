@@ -1,16 +1,34 @@
-## Hi there 👋
+### Olá eu sou o Luan Pierre👋
 
-<!--
-**LuanPirr3/LuanPirr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aluno de Engenharia de Software no INATEL. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/LuanPirr3?tab=repositories">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LuanPirr3&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LuanPirr3&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanPirr3&show_icons=true" />
+</picture>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPirr3&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPirr3&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPirr3&layout=compact" alt="Top Langs" />
+</picture>
+
+
+
+</div>
