@@ -18,7 +18,6 @@
   <img allign="center" alt="Luan-C++" heigth="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img allign="center" alt="Luan-Mysql" heigth="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img allign="center" alt="Luan-Js" heigth="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img allign="center" alt="Luan-Flutter" heigth="30em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
 </div>
 
