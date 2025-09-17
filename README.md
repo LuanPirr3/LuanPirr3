@@ -5,8 +5,7 @@
   <p>🌱 Aluno de Engenharia de Software no INATEL. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.</p>
   <br>
   <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanPirr3&show_icons=true&theme=dark&hide_border=true&token=${{ secrets.PAT_1 }}" width="350em" height="175em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPirr3&layout=compact&theme=dark&hide_border=true&token=${{ secrets.PAT_1 }}" width="382" height="175em" />
+
 
 </div>
 
