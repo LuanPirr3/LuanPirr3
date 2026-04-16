@@ -10,7 +10,7 @@
 
 ### 🧰 Technologies I work with
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Excel" height="40" width="40" src="https://www.svgrepo.com/show/373589/excel.svg" />
   <img align="center" alt="Google Sheets" height="40" width="40" src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" />
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
