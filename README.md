@@ -10,7 +10,7 @@
 
 ### 🧰 Technologies I work with
 
-<p align="left">
+<p align="center">
   <img alt="Excel" height="40" src="https://www.svgrepo.com/show/373589/excel.svg" />
   <img alt="Google Sheets" height="40" src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" />
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
