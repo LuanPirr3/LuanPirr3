@@ -10,14 +10,14 @@
 
 ### 🧰 Technologies I work with
 
-<div style="display: inline_block">
-  <img align="center" alt="Excel" height="40" width="40" src="https://www.svgrepo.com/show/373589/excel.svg" />
-  <img align="center" alt="Google Sheets" height="40" width="40" src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" />
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
+<p align="left">
+  <img alt="Excel" height="40" src="https://www.svgrepo.com/show/373589/excel.svg" />
+  <img alt="Google Sheets" height="40" src="https://www.svgrepo.com/show/223056/sheets-sheet.svg" />
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p>
 
 ---
 
